@@ -19,7 +19,7 @@ const createWindow = () => {
   }
 
   mainWindow.loadURL("https://youtube.com")
-  mainWindow.setTitle("Youtube Desktop")
+  mainWindow.setTitle("YouTube Desktop")
   mainWindow.setBackgroundColor("#181818")
 
   mainWindow.webContents.on("did-finish-load", () => {
