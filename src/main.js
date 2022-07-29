@@ -2,10 +2,9 @@ const path = require('path')
 
 const { app, BrowserWindow } = require('electron')
 
-let mainWindow
 
-async function createWindow () {
-  mainWindow = new BrowserWindow({
+const createWindow = () => {
+  const mainWindow = new BrowserWindow({
     width: 1200,
     height: 800,
     darkTheme: true,
@@ -49,7 +48,6 @@ app.whenReady().then(() => {
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
-    let sess = mainWindow.webContents.session;
     app.quit()
   }
 })
