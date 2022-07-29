@@ -12,7 +12,7 @@
 
 ## 安装方法
 
-从releases中下载dmg或zip文件即可轻松安装～
+从[releases](https://github.com/windshadow233/youtube-desktop-for-MacOS/releases)中下载dmg或zip文件即可轻松安装～
 
 ## 构建方法
 
