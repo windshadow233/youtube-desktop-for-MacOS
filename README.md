@@ -1,4 +1,4 @@
-# Youtube desktop based on electron for MacOS
+# Youtube desktop for Mac OS based on electron
 
 由于YouTube没有官方Mac客户端，每次刷YouTube都必须开浏览器看，非常不方便。因此用electron打包一个客户端来使用。
 
