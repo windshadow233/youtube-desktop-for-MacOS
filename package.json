@@ -1,5 +1,5 @@
 {
-  "name": "Youtube",
+  "name": "youtube_desktop",
   "version": "1.0.0",
   "description": "Youtube Desktop App for MacOS",
   "main": "src/main.js",
@@ -24,7 +24,7 @@
   "config": {
     "forge": {
       "packagerConfig": {
-	"icon": "./icon/youtube.icns"
+        "icon": "./icon/youtube.icns"
       },
       "makers": [
         {
