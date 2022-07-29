@@ -7,8 +7,8 @@
 
 ### 环境依赖
 
-nodejs==18.7.0
-npm==8.15.0
+- nodejs==18.7.0
+- npm==8.15.0
 
 ```shell
 git clone https://github.com/windshadow233/youtube-desktop-for-MacOS
