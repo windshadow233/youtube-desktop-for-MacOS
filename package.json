@@ -1,5 +1,5 @@
 {
-  "name": "youtube_desktop",
+  "name": "YouTube",
   "version": "1.0.0",
   "description": "Youtube Desktop App for MacOS",
   "main": "src/main.js",
