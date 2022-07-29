@@ -1,6 +1,8 @@
 # YouTube desktop for Mac OS based on electron
 
-由于YouTube没有官方Mac客户端，每次刷YouTube都必须开浏览器看，非常不方便。因此用electron打包一个客户端来使用。
+由于YouTube没有官方Mac客户端，每次刷YouTube都必须开浏览器看，非常不方便。因此我们可以用electron打包一个客户端来使用。
+
+**注意：此项目架构为arm64**
 
 
 ## 环境依赖
@@ -9,6 +11,10 @@
 - npm==8.15.0
 
 ## 安装方法
+
+从releases中下载dmg或zip文件即可轻松安装～
+
+## 构建方法
 
 ```shell
 git clone https://github.com/windshadow233/youtube-desktop-for-MacOS
