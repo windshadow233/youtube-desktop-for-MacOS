@@ -18,7 +18,7 @@
 ```shell
 git clone https://github.com/windshadow233/youtube-desktop-for-MacOS
 cd youtube-desktop-for-MacOS
-npm install --save-dev
+npm install
 npm run make
 ```
 
